@@ -1,16 +1,16 @@
 Codename: raspotify
-Date: Mon, 29 Apr 2019 22:58:48 UTC
+Date: Sun, 26 Jul 2020 21:55:57 UTC
 Architectures: armhf
 Components: main
 MD5Sum:
- f86610619668063e40badfcea122a7e2 617 main/binary-armhf/Packages
- a7a0f862f0693422269f64024956693e 429 main/binary-armhf/Packages.gz
+ 573534eddb11503fa774305a24b5a565 617 main/binary-armhf/Packages
+ 030c9dea63600c2d98f8e52491560e0a 430 main/binary-armhf/Packages.gz
  12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
 SHA1:
- b9a2538300dae6d6bb01fb3f8ba79ff772c87552 617 main/binary-armhf/Packages
- 4a2ddbb63d75f9add6c4ad30cba18e8237f0d317 429 main/binary-armhf/Packages.gz
+ 04d227b8af70a3ab9d62e22d84c4dc2be23b198e 617 main/binary-armhf/Packages
+ 3025cca16b2181d0598761efe93609dd5d3c5bf5 430 main/binary-armhf/Packages.gz
  4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
 SHA256:
- b925e1b1d86c906b29b408da9eae2311944666fd0dc7fbdc0086f5bb9b53758d 617 main/binary-armhf/Packages
- a850c89e7f787131f5ff2189bb8e948e0adaac5d201bebadc4ad3f55e0cdcce8 429 main/binary-armhf/Packages.gz
+ 406e9c9740c0f2b2ab5afe95be08a3e3b792ec9cf1b3f3b9f78a4cb4426d9a21 617 main/binary-armhf/Packages
+ fe256e6a9158f4aa3c9f6d182849e23fe95fa41785381f016bae113f7c1f3a38 430 main/binary-armhf/Packages.gz
  adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
